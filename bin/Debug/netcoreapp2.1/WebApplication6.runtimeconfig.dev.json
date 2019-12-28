@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\reena\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\reena\\.nuget\\packages"
+    ]
+  }
+}
